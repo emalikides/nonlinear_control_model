@@ -1,5 +1,5 @@
 # Nonlinear control
-Simulation for nonlinear control course.
+[Simulation](https://github.com/emalikides/nonlinear_control_model/blob/main/emmanuel_malikides_report.pdf) for nonlinear control course.
 
 Exerpt:
 
