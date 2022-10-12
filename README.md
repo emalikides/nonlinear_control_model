@@ -1,2 +1,6 @@
-# nonlinear_control_model
-Simulation for nonlinear controllers
+# Nonlinear control
+Simulation for nonlinear control course.
+
+Exerpt:
+
+![first page](p1_nlctrl.png)
